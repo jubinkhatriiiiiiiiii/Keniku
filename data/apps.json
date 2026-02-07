@@ -72,5 +72,26 @@
     "id": "90bd0818-cc32-487c-9361-77b3f8bfd3a8",
     "createdAt": "2026-02-07T19:38:41.409Z",
     "updatedAt": "2026-02-07T19:38:41.409Z"
+  },
+  {
+    "name": "jubin",
+    "packageName": "com.app.com",
+    "developer": "Indie Games Studio",
+    "category": "Social",
+    "shortDescription": "Run through the galaxy in this endless runner.",
+    "longDescription": "gijgkh",
+    "iconUrl": "https://placehold.co/512x512/dc2626/white?text=Game",
+    "featureGraphicUrl": "",
+    "screenshots": [],
+    "tags": [],
+    "averageRating": 0,
+    "totalDownloads": 0,
+    "isFeatured": false,
+    "isPublished": false,
+    "isArchived": false,
+    "visibility": "public",
+    "id": "e9bcc6c4-d5ca-419e-82c9-738c15802412",
+    "createdAt": "2026-02-07T19:56:31.666Z",
+    "updatedAt": "2026-02-07T19:56:31.666Z"
   }
 ]
