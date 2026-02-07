@@ -51,5 +51,26 @@
     "id": "d656e501-da06-49f3-b239-006169577a3e",
     "createdAt": "2026-02-07T19:25:24.554Z",
     "updatedAt": "2026-02-07T19:25:24.554Z"
+  },
+  {
+    "name": ".htaccess",
+    "packageName": "ddgd",
+    "developer": "Indie Games Studio",
+    "category": "Productivity",
+    "shortDescription": "Run through the galaxy in this endless runner.",
+    "longDescription": "njbnm",
+    "iconUrl": "https://placehold.co/512x512/dc2626/white?text=Game",
+    "featureGraphicUrl": "",
+    "screenshots": [],
+    "tags": [],
+    "averageRating": 0,
+    "totalDownloads": 0,
+    "isFeatured": false,
+    "isPublished": false,
+    "isArchived": false,
+    "visibility": "public",
+    "id": "90bd0818-cc32-487c-9361-77b3f8bfd3a8",
+    "createdAt": "2026-02-07T19:38:41.409Z",
+    "updatedAt": "2026-02-07T19:38:41.409Z"
   }
 ]
