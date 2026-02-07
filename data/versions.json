@@ -78,5 +78,25 @@
     "signatureVerified": false,
     "id": "8d36b933-3b37-4b54-95df-a906de066a4b",
     "createdAt": "2026-02-07T19:37:51.643Z"
+  },
+  {
+    "appId": "d656e501-da06-49f3-b239-006169577a3e",
+    "versionString": "release",
+    "versionCode": 0,
+    "changelog": "its new",
+    "fileUrl": "https://github.com/jubinkhatriiiiiiiiii/Keniku/releases/download/release/Anidroid.apk",
+    "fileName": "Anidroid.apk",
+    "fileSize": "14 MB",
+    "fileSizeBytes": 14651399,
+    "downloadCount": 0,
+    "status": "stable",
+    "track": "stable",
+    "minAndroidVersion": "5.0",
+    "abis": [
+      "universal"
+    ],
+    "signatureVerified": false,
+    "id": "b9e49726-1d90-4f9a-80ce-e2cd3e2acaf6",
+    "createdAt": "2026-02-07T19:46:02.389Z"
   }
 ]
