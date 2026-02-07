@@ -17,7 +17,12 @@
     "videoUrl": null,
     "websiteUrl": "https://keniku.app",
     "supportEmail": "support@keniku.app",
-    "tags": ["entertainment", "streaming", "video", "media"],
+    "tags": [
+      "entertainment",
+      "streaming",
+      "video",
+      "media"
+    ],
     "averageRating": 4.5,
     "totalDownloads": 10000,
     "isFeatured": true,
@@ -26,6 +31,25 @@
     "visibility": "public",
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "name": "keniku-4.7.8.apk",
+    "packageName": "com.keniku.release",
+    "developer": "Keniku Inc.",
+    "category": "Uncategorized",
+    "shortDescription": "its new",
+    "longDescription": "its new",
+    "iconUrl": "https://placehold.co/512x512/2563eb/white?text=release",
+    "screenshots": [],
+    "tags": [],
+    "averageRating": 0,
+    "totalDownloads": 0,
+    "isFeatured": false,
+    "isPublished": false,
+    "isArchived": false,
+    "visibility": "public",
+    "id": "d656e501-da06-49f3-b239-006169577a3e",
+    "createdAt": "2026-02-07T19:25:24.554Z",
+    "updatedAt": "2026-02-07T19:25:24.554Z"
   }
 ]
-
