@@ -118,5 +118,25 @@
     "signatureVerified": false,
     "id": "612e428e-352e-453a-9109-3a760e7e203b",
     "createdAt": "2026-02-07T19:46:04.027Z"
+  },
+  {
+    "appId": "d656e501-da06-49f3-b239-006169577a3e",
+    "versionString": "release",
+    "versionCode": 0,
+    "changelog": "its new",
+    "fileUrl": "https://github.com/jubinkhatriiiiiiiiii/Keniku/releases/download/release/app-arm64-v8a-release.apk",
+    "fileName": "app-arm64-v8a-release.apk",
+    "fileSize": "21.1 MB",
+    "fileSizeBytes": 22098896,
+    "downloadCount": 0,
+    "status": "stable",
+    "track": "stable",
+    "minAndroidVersion": "5.0",
+    "abis": [
+      "arm64-v8a"
+    ],
+    "signatureVerified": false,
+    "id": "2609411e-735f-4eb9-b47a-f56a69604811",
+    "createdAt": "2026-02-07T19:46:06.051Z"
   }
 ]
