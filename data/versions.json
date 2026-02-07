@@ -158,5 +158,25 @@
     "signatureVerified": false,
     "id": "1c0c8334-6506-49f1-a4e2-90f38731a75c",
     "createdAt": "2026-02-07T19:46:08.050Z"
+  },
+  {
+    "appId": "d656e501-da06-49f3-b239-006169577a3e",
+    "versionString": "release",
+    "versionCode": 0,
+    "changelog": "its new",
+    "fileUrl": "https://github.com/jubinkhatriiiiiiiiii/Keniku/releases/download/release/app-x86_64-release.apk",
+    "fileName": "app-x86_64-release.apk",
+    "fileSize": "22 MB",
+    "fileSizeBytes": 23089810,
+    "downloadCount": 0,
+    "status": "stable",
+    "track": "stable",
+    "minAndroidVersion": "5.0",
+    "abis": [
+      "x86_64"
+    ],
+    "signatureVerified": false,
+    "id": "2e046a6e-a867-4f0d-b04a-c45e353da0aa",
+    "createdAt": "2026-02-07T19:46:09.861Z"
   }
 ]
