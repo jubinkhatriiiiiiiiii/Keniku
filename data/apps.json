@@ -1,0 +1,22 @@
+[
+  {
+    "name": "keniku-4.7.8.apk",
+    "packageName": "com.keniku.release",
+    "developer": "Keniku Inc.",
+    "category": "Uncategorized",
+    "shortDescription": "its new",
+    "longDescription": "its new",
+    "iconUrl": "https://placehold.co/512x512/2563eb/white?text=release",
+    "screenshots": [],
+    "tags": [],
+    "averageRating": 0,
+    "totalDownloads": 0,
+    "isFeatured": false,
+    "isPublished": false,
+    "isArchived": false,
+    "visibility": "public",
+    "id": "6e28464c-41a2-459d-acf0-ecebfea1a058",
+    "createdAt": "2026-02-07T19:00:28.026Z",
+    "updatedAt": "2026-02-07T19:00:28.026Z"
+  }
+]
