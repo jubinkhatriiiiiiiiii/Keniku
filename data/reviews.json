@@ -1,0 +1,67 @@
+[
+  {
+    "id": "review-001",
+    "appId": "keniku-001",
+    "userId": "user-001",
+    "userName": "John Doe",
+    "rating": 5,
+    "comment": "Amazing app! The streaming quality is excellent and the interface is very intuitive.",
+    "versionString": "4.7.8",
+    "device": "Samsung Galaxy S24",
+    "helpful": 42,
+    "developerReply": "Thank you for the kind review! We're glad you enjoy the app.",
+    "developerReplyAt": "2024-12-05T10:00:00.000Z",
+    "isHidden": false,
+    "isVerifiedPurchase": true,
+    "createdAt": "2024-12-02T15:30:00.000Z"
+  },
+  {
+    "id": "review-002",
+    "appId": "keniku-001",
+    "userId": "user-002",
+    "userName": "Jane Smith",
+    "rating": 4,
+    "comment": "Great app overall. Would be perfect if it had Chromecast support.",
+    "versionString": "4.7.8",
+    "device": "Pixel 8",
+    "helpful": 28,
+    "developerReply": null,
+    "developerReplyAt": null,
+    "isHidden": false,
+    "isVerifiedPurchase": true,
+    "createdAt": "2024-12-03T09:15:00.000Z"
+  },
+  {
+    "id": "review-003",
+    "appId": "keniku-001",
+    "userId": "user-003",
+    "userName": "Mike Johnson",
+    "rating": 5,
+    "comment": "Best entertainment app I've used. The offline mode is a game changer!",
+    "versionString": "4.7.7",
+    "device": "OnePlus 12",
+    "helpful": 15,
+    "developerReply": null,
+    "developerReplyAt": null,
+    "isHidden": false,
+    "isVerifiedPurchase": true,
+    "createdAt": "2024-11-28T20:45:00.000Z"
+  },
+  {
+    "id": "review-004",
+    "appId": "keniku-001",
+    "userId": "user-004",
+    "userName": "Sarah Wilson",
+    "rating": 3,
+    "comment": "App is okay but drains battery quickly when streaming.",
+    "versionString": "4.7.6",
+    "device": "Xiaomi 14",
+    "helpful": 8,
+    "developerReply": "We're constantly working on battery optimization. Please try the latest version!",
+    "developerReplyAt": "2024-11-25T14:20:00.000Z",
+    "isHidden": false,
+    "isVerifiedPurchase": true,
+    "createdAt": "2024-11-24T11:00:00.000Z"
+  }
+]
+
