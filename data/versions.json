@@ -38,5 +38,25 @@
     "signatureVerified": false,
     "id": "3903e110-7302-4d9f-b740-bdfd5f59676d",
     "createdAt": "2026-02-07T19:25:27.036Z"
+  },
+  {
+    "appId": "d656e501-da06-49f3-b239-006169577a3e",
+    "versionString": "release",
+    "versionCode": 0,
+    "changelog": "its new",
+    "fileUrl": "https://github.com/jubinkhatriiiiiiiiii/Keniku/releases/download/release/keniku-4.7.9.apk",
+    "fileName": "keniku-4.7.9.apk",
+    "fileSize": "22 MB",
+    "fileSizeBytes": 23089810,
+    "downloadCount": 0,
+    "status": "stable",
+    "track": "stable",
+    "minAndroidVersion": "5.0",
+    "abis": [
+      "universal"
+    ],
+    "signatureVerified": false,
+    "id": "52e191dc-bb48-48d9-840b-731b5caceb41",
+    "createdAt": "2026-02-07T19:36:12.360Z"
   }
 ]
