@@ -18,5 +18,26 @@
     "id": "6e28464c-41a2-459d-acf0-ecebfea1a058",
     "createdAt": "2026-02-07T19:00:28.026Z",
     "updatedAt": "2026-02-07T19:00:28.026Z"
+  },
+  {
+    "name": "jubin",
+    "packageName": "com.example",
+    "developer": "dd",
+    "category": "Productivity",
+    "shortDescription": "Run through the galaxy in this endless runner.",
+    "longDescription": "jhh",
+    "iconUrl": "https://placehold.co/512x512/dc2626/white?text=Game",
+    "featureGraphicUrl": "",
+    "screenshots": [],
+    "tags": [],
+    "averageRating": 0,
+    "totalDownloads": 0,
+    "isFeatured": false,
+    "isPublished": false,
+    "isArchived": false,
+    "visibility": "public",
+    "id": "82c5c964-401d-428e-82a5-5ecb583e5f01",
+    "createdAt": "2026-02-07T19:08:55.342Z",
+    "updatedAt": "2026-02-07T19:08:55.343Z"
   }
 ]
