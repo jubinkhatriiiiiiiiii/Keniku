@@ -25,12 +25,12 @@
     ],
     "averageRating": 4.5,
     "totalDownloads": 10000,
-    "isFeatured": true,
+    "isFeatured": false,
     "isPublished": true,
     "isArchived": false,
     "visibility": "public",
     "createdAt": "2024-01-01T00:00:00.000Z",
-    "updatedAt": "2024-12-01T00:00:00.000Z"
+    "updatedAt": "2026-02-07T19:53:23.345Z"
   },
   {
     "name": "keniku-4.7.8.apk",
