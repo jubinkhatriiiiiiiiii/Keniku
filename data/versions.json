@@ -58,5 +58,25 @@
     "signatureVerified": false,
     "id": "52e191dc-bb48-48d9-840b-731b5caceb41",
     "createdAt": "2026-02-07T19:36:12.360Z"
+  },
+  {
+    "appId": "d656e501-da06-49f3-b239-006169577a3e",
+    "versionString": "release",
+    "versionCode": 0,
+    "changelog": "its new",
+    "fileUrl": "https://github.com/jubinkhatriiiiiiiiii/Keniku/releases/download/release/test-4.7.9.apk",
+    "fileName": "test-4.7.9.apk",
+    "fileSize": "22 MB",
+    "fileSizeBytes": 23089810,
+    "downloadCount": 0,
+    "status": "stable",
+    "track": "stable",
+    "minAndroidVersion": "5.0",
+    "abis": [
+      "universal"
+    ],
+    "signatureVerified": false,
+    "id": "8d36b933-3b37-4b54-95df-a906de066a4b",
+    "createdAt": "2026-02-07T19:37:51.643Z"
   }
 ]
