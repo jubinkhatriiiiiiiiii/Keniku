@@ -138,5 +138,25 @@
     "signatureVerified": false,
     "id": "2609411e-735f-4eb9-b47a-f56a69604811",
     "createdAt": "2026-02-07T19:46:06.051Z"
+  },
+  {
+    "appId": "d656e501-da06-49f3-b239-006169577a3e",
+    "versionString": "release",
+    "versionCode": 0,
+    "changelog": "its new",
+    "fileUrl": "https://github.com/jubinkhatriiiiiiiiii/Keniku/releases/download/release/app-release.apk",
+    "fileName": "app-release.apk",
+    "fileSize": "11.4 MB",
+    "fileSizeBytes": 11903869,
+    "downloadCount": 0,
+    "status": "stable",
+    "track": "stable",
+    "minAndroidVersion": "5.0",
+    "abis": [
+      "universal"
+    ],
+    "signatureVerified": false,
+    "id": "1c0c8334-6506-49f1-a4e2-90f38731a75c",
+    "createdAt": "2026-02-07T19:46:08.050Z"
   }
 ]
