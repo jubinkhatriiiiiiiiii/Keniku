@@ -1,0 +1,17 @@
+{
+  "maintenanceMode": false,
+  "downloadsEnabled": true,
+  "announcementBanner": null,
+  "legalNotices": {
+    "privacyPolicy": "https://keniku.app/privacy",
+    "termsOfService": "https://keniku.app/terms",
+    "disclaimer": "All apps are verified for security. Download at your own risk."
+  },
+  "featureFlags": {
+    "reviewsEnabled": true,
+    "wishlistEnabled": true,
+    "downloadHistoryEnabled": true,
+    "betaTracksEnabled": true
+  }
+}
+
